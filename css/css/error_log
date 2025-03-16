@@ -1,0 +1,18 @@
+[10-Mar-2025 08:13:23 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, false given in /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1): eval()
+#2 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2): eval()
+#3 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2): aCsIk::QpXyb()
+#4 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/index.php(1): require('/home/ldsyfs06f...')
+#5 {main}
+  thrown in /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1) : eval()'d code on line 455
+[11-Mar-2025 04:25:24 UTC] PHP Fatal error:  Uncaught TypeError: fread(): Argument #1 ($stream) must be of type resource, false given in /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1) : eval()'d code:455
+Stack trace:
+#0 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1) : eval()'d code(455): fread()
+#1 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1): eval()
+#2 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2): eval()
+#3 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2): aCsIk::QpXyb()
+#4 /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/index.php(1): require('/home/ldsyfs06f...')
+#5 {main}
+  thrown in /home/ldsyfs06f7vg/public_html/adclimber.com/download/js/js/G.mp2(2) : eval()'d code(1) : eval()'d code on line 455
